@@ -1,2 +1,2 @@
-# imers-o-alura
+# imersao-alura
 Site utilizando HTML e CSS
